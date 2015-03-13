@@ -1,0 +1,9 @@
+package pl.agh.jtp;
+
+/** 	@author Zbigniew Krolikowski 
+  	@version 1.0
+*/
+
+/** 	Function responsible for assembling a team
+
+ */

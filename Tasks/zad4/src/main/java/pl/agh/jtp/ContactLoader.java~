@@ -1,0 +1,65 @@
+package pl.agh.jtp;
+
+import java.util.Scanner;
+import java.io.FileReader;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+
+/** @author Zbigniew Krolikowski 
+  @version 1.0
+*/
+
+/**
+  	Class which loads lines from a file given by the file name, and gives contacts contained in the data.
+*/
+public class ContactLoader {
+	private String filePath;
+	private FileReader fileReader;
+	private Scanner fileScanner;
+	
+/** 	Constructor 
+	@param filePath The path to a given file.
+*/
+	public ContactLoader (String filePath) throws FileNotFoundException {
+		this.filePath = filePath;
+		Initialize();
+	}
+/** 	Constuctor without parameters
+	@throws FileNotFoundException If the file is not valid, just carries it from {@link #Initialize() to parent function}
+ */
+	public ContactLoader() throws FileNotFoundException {	
+		System.out.println("Specify a path to the adress book:");
+		Scanner scanPath = new Scanner(System.in);
+		this.filePath = scanPath.nextLine();	
+		Initialize();
+	}
+/** 	Initializes the streams 
+	@throws FileNotFoundException If the file is not valid.
+
+*/
+	private void Initialize() throws FileNotFoundException {
+			this.fileReader = new FileReader(this.filePath);
+			this.fileScanner = new Scanner(this.fileReader);
+	}	
+
+/** 	Used for receiving new contacts from the file
+	@see Contact
+	@return Contact, or null pointer if there is no contact to read
+ */
+	public Contact nextContact() {
+		String data = null;
+		while (fileScanner.hasNextLine()) {
+			data = fileScanner.nextLine();
+			String[] fields = data.split(",");
+			return (new Contact(fields[0],fields[1],fields[2],fields[3]));
+		}
+		/* If we got here then there are no more lines to read, closing streams and returning null */
+		fileScanner.close();
+		try {
+			fileReader.close();
+		} catch (IOException e) 
+			{System.out.println(" Stream is closed!. This should have never happened, what have you done?");}
+
+		return null;		
+	}
+}

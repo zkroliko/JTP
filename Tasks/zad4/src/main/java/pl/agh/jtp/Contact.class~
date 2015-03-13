@@ -1,0 +1,54 @@
+package pl.agh.jtp;
+
+/**
+/*
+/*
+*/
+ 
+public class Contact {
+	private	String firstName;
+	private String lastName;
+	private String phone;	
+	private String email;
+	
+	public Contact(String fistName, String lastName, String phone, String email) {
+		this.firstName = firstName;
+		this.lastName = lastName;
+		this.phone = phone;
+		this.email = email;
+	}
+	@Override
+	public String toString (){
+		return this.firstName + this.lastName; 	
+	}
+	public String toCSV (){
+		return this.firstName + "," this.lastName + "," + this.phone + "," + this.email + "\n";	
+	}
+}
+
+public class FileLoader {
+	private String filePath;
+	private FileReader fileReader;
+	private Scanner fileScanner;
+	public FileLoader(String filePath) {
+		this.filePath = filePath;
+		Initialize();
+	}
+	public FileLoader() {	
+		System.out.println("Specify a path to the adress book:");
+		Scanner scanPath = new Scanner(System.in);
+		this.filePath = scanPath.nextLine();	
+		Initialize();
+	}
+	private void Initialize() {
+		try {
+			this.fileReader = new FileReader(this.filePath);
+			this.fileScanner = new Scanner(this.fileReader);
+		} catch(FileNotFoundException fnfe) {
+			System.out.println("Operation failed. There is not file under that name.");	
+		} 
+	}	
+	public Contact nextContact() {
+		
+	}
+}

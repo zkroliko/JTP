@@ -1,0 +1,11 @@
+package pl.agh.jtp;
+
+public static class Division {
+	static void divide (Double x, Double y) {
+		try { 
+			System.out.println(x/y);
+		} catch (IllegalArgumentException e) {
+			System.out.println("Divisor is 0");	
+		}
+	}
+}

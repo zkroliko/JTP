@@ -1,0 +1,308 @@
+2014-04-14 20:49:58 INFO  Prog:20 - The program has started
+2014-04-14 20:49:58 INFO  Demo:33 - Started looking for file: Demo.properties
+2014-04-14 20:49:58 INFO  Demo:41 - Found the file: Demo.properties
+2014-04-14 20:49:58 INFO  Demo:57 - Time elapsed for loading: Demo.properties is 360241ns
+2014-04-14 20:49:58 INFO  Demo:33 - Started looking for file: messagesEnglish.properties
+2014-04-14 20:49:58 INFO  Demo:41 - Found the file: messagesEnglish.properties
+2014-04-14 20:49:58 INFO  Demo:57 - Time elapsed for loading: messagesEnglish.properties is 751073ns
+2014-04-14 20:49:58 INFO  Demo:46 - Started showing mutability
+2014-04-14 20:49:58 INFO  Demo:54 - Started showing String immutability
+2014-04-14 20:49:58 INFO  Demo:72 - Finished showing String immutability
+2014-04-14 20:49:58 INFO  Demo:77 - Started showing BigInteger immutability
+2014-04-14 20:49:58 INFO  Demo:98 - Finished showing BigInteger immutability
+2014-04-14 20:49:58 INFO  Demo:49 - Finished showing mutability
+2014-04-14 20:49:58 INFO  Prog:30 - The program has ended without errors
+2014-04-14 20:57:03 INFO  Prog:? - The program has started
+2014-04-14 20:57:03 INFO  Demo:? - Started looking for file: Demo.properties
+2014-04-14 20:57:03 INFO  Demo:? - Found the file: Demo.properties
+2014-04-14 20:57:03 INFO  Demo:? - Time elapsed for loading: Demo.properties is 524997ns
+2014-04-14 20:57:03 INFO  Demo:? - Started looking for file: messagesEnglish.properties
+2014-04-14 20:57:03 INFO  Demo:? - Found the file: messagesEnglish.properties
+2014-04-14 20:57:03 INFO  Demo:? - Time elapsed for loading: messagesEnglish.properties is 913384ns
+2014-04-14 20:57:03 INFO  Demo:? - Started showing mutability
+2014-04-14 20:57:03 INFO  Demo:? - Started showing String immutability
+2014-04-14 20:57:03 INFO  Demo:? - Finished showing String immutability
+2014-04-14 20:57:03 INFO  Demo:? - Started showing BigInteger immutability
+2014-04-14 20:57:03 INFO  Demo:? - Finished showing BigInteger immutability
+2014-04-14 20:57:03 INFO  Demo:? - Finished showing mutability
+2014-04-14 20:57:03 INFO  Prog:? - The program has ended without errors
+2014-04-14 20:57:25 INFO  Prog:? - The program has started
+2014-04-14 20:57:25 INFO  Demo:? - Started looking for file: Demo.properties
+2014-04-14 20:57:25 INFO  Demo:? - Found the file: Demo.properties
+2014-04-14 20:57:25 INFO  Demo:? - Time elapsed for loading: Demo.properties is 566134ns
+2014-04-14 20:57:25 INFO  Demo:? - Started looking for file: messagesEnglish.properties
+2014-04-14 20:57:25 INFO  Demo:? - Found the file: messagesEnglish.properties
+2014-04-14 20:57:25 INFO  Demo:? - Time elapsed for loading: messagesEnglish.properties is 742552ns
+2014-04-14 20:57:25 INFO  Demo:? - Started showing mutability
+2014-04-14 20:57:25 INFO  Demo:? - Started showing String immutability
+2014-04-14 20:57:25 INFO  Demo:? - Finished showing String immutability
+2014-04-14 20:57:25 INFO  Demo:? - Started showing BigInteger immutability
+2014-04-14 20:57:25 INFO  Demo:? - Finished showing BigInteger immutability
+2014-04-14 20:57:25 INFO  Demo:? - Finished showing mutability
+2014-04-14 20:57:25 INFO  Prog:? - The program has ended without errors
+2014-04-14 20:58:37 INFO  Prog:? - The program has started
+2014-04-14 20:58:37 INFO  Demo:? - Started looking for file: Demo.properties
+2014-04-14 20:58:37 INFO  Demo:? - Found the file: Demo.properties
+2014-04-14 20:58:37 INFO  Demo:? - Time elapsed for loading: Demo.properties is 662514ns
+2014-04-14 20:58:37 INFO  Demo:? - Started looking for file: messagesEnglish.properties
+2014-04-14 20:58:37 INFO  Demo:? - Found the file: messagesEnglish.properties
+2014-04-14 20:58:37 INFO  Demo:? - Time elapsed for loading: messagesEnglish.properties is 1267969ns
+2014-04-14 20:58:37 INFO  Demo:? - Started showing mutability
+2014-04-14 20:58:37 INFO  Demo:? - Started showing String immutability
+2014-04-14 20:58:37 INFO  Demo:? - Finished showing String immutability
+2014-04-14 20:58:37 INFO  Demo:? - Started showing BigInteger immutability
+2014-04-14 20:58:37 INFO  Demo:? - Finished showing BigInteger immutability
+2014-04-14 20:58:37 INFO  Demo:? - Finished showing mutability
+2014-04-14 20:58:37 INFO  Prog:? - The program has ended without errors
+2014-04-14 20:58:58 INFO  Prog:20 - The program has started
+2014-04-14 20:58:58 INFO  Demo:33 - Started looking for file: Demo.properties
+2014-04-14 20:58:58 INFO  Demo:41 - Found the file: Demo.properties
+2014-04-14 20:58:58 INFO  Demo:57 - Time elapsed for loading: Demo.properties is 356330ns
+2014-04-14 20:58:58 INFO  Demo:33 - Started looking for file: messagesEnglish.properties
+2014-04-14 20:58:58 INFO  Demo:41 - Found the file: messagesEnglish.properties
+2014-04-14 20:58:58 INFO  Demo:57 - Time elapsed for loading: messagesEnglish.properties is 743670ns
+2014-04-14 20:58:58 INFO  Demo:46 - Started showing mutability
+2014-04-14 20:58:58 INFO  Demo:54 - Started showing String immutability
+2014-04-14 20:58:58 INFO  Demo:72 - Finished showing String immutability
+2014-04-14 20:58:58 INFO  Demo:77 - Started showing BigInteger immutability
+2014-04-14 20:58:58 INFO  Demo:98 - Finished showing BigInteger immutability
+2014-04-14 20:58:58 INFO  Demo:49 - Finished showing mutability
+2014-04-14 20:58:58 INFO  Prog:30 - The program has ended without errors
+2014-04-14 20:59:09 INFO  Prog:20 - The program has started
+2014-04-14 20:59:09 INFO  Demo:33 - Started looking for file: Demo.properties
+2014-04-14 20:59:09 INFO  Demo:41 - Found the file: Demo.properties
+2014-04-14 20:59:09 INFO  Demo:57 - Time elapsed for loading: Demo.properties is 360451ns
+2014-04-14 20:59:09 INFO  Demo:33 - Started looking for file: messagesEnglish.properties
+2014-04-14 20:59:09 INFO  Demo:41 - Found the file: messagesEnglish.properties
+2014-04-14 20:59:09 INFO  Demo:57 - Time elapsed for loading: messagesEnglish.properties is 708400ns
+2014-04-14 20:59:09 INFO  Demo:46 - Started showing mutability
+2014-04-14 20:59:09 INFO  Demo:54 - Started showing String immutability
+2014-04-14 20:59:09 INFO  Demo:72 - Finished showing String immutability
+2014-04-14 20:59:09 INFO  Demo:77 - Started showing BigInteger immutability
+2014-04-14 20:59:09 INFO  Demo:98 - Finished showing BigInteger immutability
+2014-04-14 20:59:09 INFO  Demo:49 - Finished showing mutability
+2014-04-14 20:59:09 INFO  Prog:30 - The program has ended without errors
+2014-04-14 20:59:43 INFO  Prog:20 - The program has started
+2014-04-14 20:59:43 INFO  Demo:33 - Started looking for file: Demo.properties
+2014-04-14 20:59:43 INFO  Demo:41 - Found the file: Demo.properties
+2014-04-14 20:59:43 INFO  Demo:57 - Time elapsed for loading: Demo.properties is 353956ns
+2014-04-14 20:59:43 INFO  Demo:33 - Started looking for file: messagesEnglish.properties
+2014-04-14 20:59:43 INFO  Demo:41 - Found the file: messagesEnglish.properties
+2014-04-14 20:59:43 INFO  Demo:57 - Time elapsed for loading: messagesEnglish.properties is 796260ns
+2014-04-14 20:59:43 INFO  Demo:46 - Started showing mutability
+2014-04-14 20:59:43 INFO  Demo:54 - Started showing String immutability
+2014-04-14 20:59:43 INFO  Demo:72 - Finished showing String immutability
+2014-04-14 20:59:43 INFO  Demo:77 - Started showing BigInteger immutability
+2014-04-14 20:59:43 INFO  Demo:98 - Finished showing BigInteger immutability
+2014-04-14 20:59:43 INFO  Demo:49 - Finished showing mutability
+2014-04-14 20:59:43 INFO  Prog:30 - The program has ended without errors
+2014-04-14 20:59:46 INFO  Prog:20 - The program has started
+2014-04-14 20:59:46 INFO  Demo:33 - Started looking for file: Demo.properties
+2014-04-14 20:59:46 INFO  Demo:41 - Found the file: Demo.properties
+2014-04-14 20:59:46 INFO  Demo:57 - Time elapsed for loading: Demo.properties is 356190ns
+2014-04-14 20:59:46 INFO  Demo:33 - Started looking for file: messagesEnglish.properties
+2014-04-14 20:59:46 INFO  Demo:41 - Found the file: messagesEnglish.properties
+2014-04-14 20:59:46 INFO  Demo:57 - Time elapsed for loading: messagesEnglish.properties is 743251ns
+2014-04-14 20:59:46 INFO  Demo:46 - Started showing mutability
+2014-04-14 20:59:46 INFO  Demo:54 - Started showing String immutability
+2014-04-14 20:59:46 INFO  Demo:72 - Finished showing String immutability
+2014-04-14 20:59:46 INFO  Demo:77 - Started showing BigInteger immutability
+2014-04-14 20:59:46 INFO  Demo:98 - Finished showing BigInteger immutability
+2014-04-14 20:59:46 INFO  Demo:49 - Finished showing mutability
+2014-04-14 20:59:46 INFO  Prog:30 - The program has ended without errors
+2014-04-14 20:59:48 INFO  Prog:20 - The program has started
+2014-04-14 20:59:48 INFO  Demo:33 - Started looking for file: Demo.properties
+2014-04-14 20:59:48 INFO  Demo:41 - Found the file: Demo.properties
+2014-04-14 20:59:48 INFO  Demo:57 - Time elapsed for loading: Demo.properties is 408781ns
+2014-04-14 20:59:48 INFO  Demo:33 - Started looking for file: messagesEnglish.properties
+2014-04-14 20:59:48 INFO  Demo:41 - Found the file: messagesEnglish.properties
+2014-04-14 20:59:48 INFO  Demo:57 - Time elapsed for loading: messagesEnglish.properties is 765809ns
+2014-04-14 20:59:48 INFO  Demo:46 - Started showing mutability
+2014-04-14 20:59:48 INFO  Demo:54 - Started showing String immutability
+2014-04-14 20:59:48 INFO  Demo:72 - Finished showing String immutability
+2014-04-14 20:59:48 INFO  Demo:77 - Started showing BigInteger immutability
+2014-04-14 20:59:48 INFO  Demo:98 - Finished showing BigInteger immutability
+2014-04-14 20:59:48 INFO  Demo:49 - Finished showing mutability
+2014-04-14 20:59:48 INFO  Prog:30 - The program has ended without errors
+2014-04-14 21:36:06 INFO  Prog:? - The program has started
+2014-04-14 21:36:06 INFO  Demo:? - Started looking for file: Demo.properties
+2014-04-14 21:36:06 INFO  Demo:? - Found the file: Demo.properties
+2014-04-14 21:36:06 INFO  Demo:? - Time elapsed for loading: Demo.properties is 562222ns
+2014-04-14 21:36:06 INFO  Demo:? - Started looking for file: messagesEnglish.properties
+2014-04-14 21:36:06 INFO  Demo:? - Found the file: messagesEnglish.properties
+2014-04-14 21:36:06 INFO  Demo:? - Time elapsed for loading: messagesEnglish.properties is 749327ns
+2014-04-14 21:36:06 INFO  Demo:? - Started showing mutability
+2014-04-14 21:36:06 INFO  Demo:? - Started showing String immutability
+2014-04-14 21:36:06 INFO  Demo:? - Finished showing String immutability
+2014-04-14 21:36:06 INFO  Demo:? - Started showing BigInteger immutability
+2014-04-14 21:36:06 INFO  Demo:? - Finished showing BigInteger immutability
+2014-04-14 21:36:06 INFO  Demo:? - Finished showing mutability
+2014-04-14 21:36:06 INFO  Prog:? - The program has ended without errors
+2014-04-15 21:40:34 INFO  Prog:20 - The program has started
+2014-04-15 21:40:34 INFO  Demo:33 - Started looking for file: Demo.properties
+2014-04-15 21:40:34 INFO  Demo:41 - Found the file: Demo.properties
+2014-04-15 21:40:34 INFO  Demo:57 - Time elapsed for loading: Demo.properties is 401797ns
+2014-04-15 21:40:34 INFO  Demo:33 - Started looking for file: messagesEnglish.properties
+2014-04-15 21:40:34 INFO  Demo:41 - Found the file: messagesEnglish.properties
+2014-04-15 21:40:34 INFO  Demo:57 - Time elapsed for loading: messagesEnglish.properties is 14695864ns
+2014-04-15 21:40:34 INFO  Demo:46 - Started showing mutability
+2014-04-15 21:40:34 INFO  Demo:54 - Started showing String immutability
+2014-04-15 21:40:34 INFO  Demo:72 - Finished showing String immutability
+2014-04-15 21:40:34 INFO  Demo:77 - Started showing BigInteger immutability
+2014-04-15 21:40:34 INFO  Demo:98 - Finished showing BigInteger immutability
+2014-04-15 21:40:34 INFO  Demo:49 - Finished showing mutability
+2014-04-15 21:40:34 INFO  Prog:30 - The program has ended without errors
+2014-04-15 21:41:42 INFO  Prog:20 - The program has started
+2014-04-15 21:41:42 INFO  Demo:33 - Started looking for file: Demo.properties
+2014-04-15 21:41:42 INFO  Demo:41 - Found the file: Demo.properties
+2014-04-15 21:41:42 INFO  Demo:57 - Time elapsed for loading: Demo.properties is 350743ns
+2014-04-15 21:41:42 INFO  Demo:33 - Started looking for file: messagesEnglish.properties
+2014-04-15 21:41:42 INFO  Demo:41 - Found the file: messagesEnglish.properties
+2014-04-15 21:41:42 INFO  Demo:57 - Time elapsed for loading: messagesEnglish.properties is 744997ns
+2014-04-15 21:41:42 INFO  Demo:46 - Started showing mutability
+2014-04-15 21:41:42 INFO  Demo:54 - Started showing String immutability
+2014-04-15 21:41:42 INFO  Demo:72 - Finished showing String immutability
+2014-04-15 21:41:42 INFO  Demo:77 - Started showing BigInteger immutability
+2014-04-15 21:41:42 INFO  Demo:98 - Finished showing BigInteger immutability
+2014-04-15 21:41:42 INFO  Demo:49 - Finished showing mutability
+2014-04-15 21:41:42 INFO  Prog:30 - The program has ended without errors
+2014-04-16 09:36:37 INFO  Prog:20 - The program has started
+2014-04-16 09:36:37 INFO  Demo:33 - Started looking for file: Demo.properties
+2014-04-16 09:36:37 INFO  Demo:41 - Found the file: Demo.properties
+2014-04-16 09:36:37 INFO  Demo:57 - Time elapsed for loading: Demo.properties is 12565076ns
+2014-04-16 09:36:37 INFO  Demo:33 - Started looking for file: messagesEnglish.properties
+2014-04-16 09:36:37 INFO  Demo:41 - Found the file: messagesEnglish.properties
+2014-04-16 09:36:37 INFO  Demo:57 - Time elapsed for loading: messagesEnglish.properties is 7971126ns
+2014-04-16 09:36:37 INFO  Demo:46 - Started showing mutability
+2014-04-16 09:36:37 INFO  Demo:54 - Started showing String immutability
+2014-04-16 09:36:37 INFO  Demo:72 - Finished showing String immutability
+2014-04-16 09:36:37 INFO  Demo:77 - Started showing BigInteger immutability
+2014-04-16 09:36:37 INFO  Demo:98 - Finished showing BigInteger immutability
+2014-04-16 09:36:37 INFO  Demo:49 - Finished showing mutability
+2014-04-16 09:36:37 INFO  Prog:30 - The program has ended without errors
+2014-04-16 09:36:57 INFO  Prog:20 - The program has started
+2014-04-16 09:36:57 INFO  Demo:33 - Started looking for file: Demo.properties
+2014-04-16 09:36:57 INFO  Demo:41 - Found the file: Demo.properties
+2014-04-16 09:36:57 INFO  Demo:57 - Time elapsed for loading: Demo.properties is 353047ns
+2014-04-16 09:36:57 INFO  Demo:33 - Started looking for file: messagesEnglish.properties
+2014-04-16 09:36:57 INFO  Demo:41 - Found the file: messagesEnglish.properties
+2014-04-16 09:36:57 INFO  Demo:57 - Time elapsed for loading: messagesEnglish.properties is 736267ns
+2014-04-16 09:36:57 INFO  Demo:46 - Started showing mutability
+2014-04-16 09:36:57 INFO  Demo:54 - Started showing String immutability
+2014-04-16 09:36:57 INFO  Demo:72 - Finished showing String immutability
+2014-04-16 09:36:57 INFO  Demo:77 - Started showing BigInteger immutability
+2014-04-16 09:36:57 INFO  Demo:98 - Finished showing BigInteger immutability
+2014-04-16 09:36:57 INFO  Demo:49 - Finished showing mutability
+2014-04-16 09:36:57 INFO  Prog:30 - The program has ended without errors
+2014-04-16 10:21:17 INFO  Prog:? - The program has started
+2014-04-16 10:21:17 INFO  Demo:? - Started looking for file: Demo.properties
+2014-04-16 10:21:17 INFO  Demo:? - Found the file: Demo.properties
+2014-04-16 10:21:17 INFO  Demo:? - Time elapsed for loading: Demo.properties is 641003ns
+2014-04-16 10:21:17 INFO  Demo:? - Started looking for file: messagesEnglish.properties
+2014-04-16 10:21:17 INFO  Demo:? - Found the file: messagesEnglish.properties
+2014-04-16 10:21:17 INFO  Demo:? - Time elapsed for loading: messagesEnglish.properties is 4334978ns
+2014-04-16 10:21:17 INFO  Demo:? - Started showing mutability
+2014-04-16 10:21:17 INFO  Demo:? - Started showing String immutability
+2014-04-16 10:21:17 INFO  Demo:? - Finished showing String immutability
+2014-04-16 10:21:17 INFO  Demo:? - Started showing BigInteger immutability
+2014-04-16 10:21:17 INFO  Demo:? - Finished showing BigInteger immutability
+2014-04-16 10:21:17 INFO  Demo:? - Finished showing mutability
+2014-04-16 10:21:17 INFO  Prog:? - The program has ended without errors
+2014-04-16 10:23:52 INFO  Prog:? - The program has started
+2014-04-16 10:23:52 INFO  Demo:? - Started looking for file: Demo.properties
+2014-04-16 10:23:52 INFO  Demo:? - Found the file: Demo.properties
+2014-04-16 10:23:52 INFO  Demo:? - Time elapsed for loading: Demo.properties is 604546ns
+2014-04-16 10:23:52 INFO  Demo:? - Started looking for file: messagesEnglish.properties
+2014-04-16 10:23:52 INFO  Demo:? - Found the file: messagesEnglish.properties
+2014-04-16 10:23:52 INFO  Demo:? - Time elapsed for loading: messagesEnglish.properties is 10263736ns
+2014-04-16 10:23:52 INFO  Demo:? - Started showing mutability
+2014-04-16 10:23:52 INFO  Demo:? - Started showing String immutability
+2014-04-16 10:23:52 INFO  Demo:? - Finished showing String immutability
+2014-04-16 10:23:52 INFO  Demo:? - Started showing BigInteger immutability
+2014-04-16 10:23:52 INFO  Demo:? - Finished showing BigInteger immutability
+2014-04-16 10:23:52 INFO  Demo:? - Finished showing mutability
+2014-04-16 10:23:52 INFO  Prog:? - The program has ended without errors
+2014-04-16 10:24:11 INFO  Prog:20 - The program has started
+2014-04-16 10:24:11 INFO  Demo:33 - Started looking for file: Demo.properties
+2014-04-16 10:24:11 INFO  Demo:41 - Found the file: Demo.properties
+2014-04-16 10:24:11 INFO  Demo:57 - Time elapsed for loading: Demo.properties is 398305ns
+2014-04-16 10:24:11 INFO  Demo:33 - Started looking for file: messagesEnglish.properties
+2014-04-16 10:24:11 INFO  Demo:41 - Found the file: messagesEnglish.properties
+2014-04-16 10:24:11 INFO  Demo:57 - Time elapsed for loading: messagesEnglish.properties is 742133ns
+2014-04-16 10:24:11 INFO  Demo:46 - Started showing mutability
+2014-04-16 10:24:11 INFO  Demo:54 - Started showing String immutability
+2014-04-16 10:24:11 INFO  Demo:72 - Finished showing String immutability
+2014-04-16 10:24:11 INFO  Demo:77 - Started showing BigInteger immutability
+2014-04-16 10:24:11 INFO  Demo:98 - Finished showing BigInteger immutability
+2014-04-16 10:24:11 INFO  Demo:49 - Finished showing mutability
+2014-04-16 10:24:11 INFO  Prog:30 - The program has ended without errors
+2014-04-16 10:24:12 INFO  Prog:20 - The program has started
+2014-04-16 10:24:12 INFO  Demo:33 - Started looking for file: Demo.properties
+2014-04-16 10:24:12 INFO  Demo:41 - Found the file: Demo.properties
+2014-04-16 10:24:12 INFO  Demo:57 - Time elapsed for loading: Demo.properties is 374908ns
+2014-04-16 10:24:12 INFO  Demo:33 - Started looking for file: messagesEnglish.properties
+2014-04-16 10:24:12 INFO  Demo:41 - Found the file: messagesEnglish.properties
+2014-04-16 10:24:12 INFO  Demo:57 - Time elapsed for loading: messagesEnglish.properties is 739270ns
+2014-04-16 10:24:12 INFO  Demo:46 - Started showing mutability
+2014-04-16 10:24:12 INFO  Demo:54 - Started showing String immutability
+2014-04-16 10:24:12 INFO  Demo:72 - Finished showing String immutability
+2014-04-16 10:24:12 INFO  Demo:77 - Started showing BigInteger immutability
+2014-04-16 10:24:12 INFO  Demo:98 - Finished showing BigInteger immutability
+2014-04-16 10:24:12 INFO  Demo:49 - Finished showing mutability
+2014-04-16 10:24:12 INFO  Prog:30 - The program has ended without errors
+2014-04-16 10:24:14 INFO  Prog:20 - The program has started
+2014-04-16 10:24:14 INFO  Demo:33 - Started looking for file: Demo.properties
+2014-04-16 10:24:14 INFO  Demo:41 - Found the file: Demo.properties
+2014-04-16 10:24:14 INFO  Demo:57 - Time elapsed for loading: Demo.properties is 364781ns
+2014-04-16 10:24:14 INFO  Demo:33 - Started looking for file: messagesEnglish.properties
+2014-04-16 10:24:14 INFO  Demo:41 - Found the file: messagesEnglish.properties
+2014-04-16 10:24:14 INFO  Demo:57 - Time elapsed for loading: messagesEnglish.properties is 741784ns
+2014-04-16 10:24:14 INFO  Demo:46 - Started showing mutability
+2014-04-16 10:24:14 INFO  Demo:54 - Started showing String immutability
+2014-04-16 10:24:14 INFO  Demo:72 - Finished showing String immutability
+2014-04-16 10:24:14 INFO  Demo:77 - Started showing BigInteger immutability
+2014-04-16 10:24:14 INFO  Demo:98 - Finished showing BigInteger immutability
+2014-04-16 10:24:14 INFO  Demo:49 - Finished showing mutability
+2014-04-16 10:24:14 INFO  Prog:30 - The program has ended without errors
+2014-04-16 10:29:43 INFO  Prog:20 - The program has started
+2014-04-16 10:29:43 INFO  Demo:33 - Started looking for file: Demo.properties
+2014-04-16 10:29:44 INFO  Demo:41 - Found the file: Demo.properties
+2014-04-16 10:29:44 INFO  Demo:57 - Time elapsed for loading: Demo.properties is 351790ns
+2014-04-16 10:29:44 INFO  Demo:33 - Started looking for file: messagesEnglish.properties
+2014-04-16 10:29:44 INFO  Demo:41 - Found the file: messagesEnglish.properties
+2014-04-16 10:29:44 INFO  Demo:57 - Time elapsed for loading: messagesEnglish.properties is 740038ns
+2014-04-16 10:29:44 INFO  Demo:46 - Started showing mutability
+2014-04-16 10:29:44 INFO  Demo:54 - Started showing String immutability
+2014-04-16 10:29:44 INFO  Demo:72 - Finished showing String immutability
+2014-04-16 10:29:44 INFO  Demo:77 - Started showing BigInteger immutability
+2014-04-16 10:29:44 INFO  Demo:98 - Finished showing BigInteger immutability
+2014-04-16 10:29:44 INFO  Demo:49 - Finished showing mutability
+2014-04-16 10:29:44 INFO  Prog:30 - The program has ended without errors
+2014-04-16 10:29:56 INFO  Prog:? - The program has started
+2014-04-16 10:29:56 INFO  Demo:? - Started looking for file: Demo.properties
+2014-04-16 10:29:56 INFO  Demo:? - Found the file: Demo.properties
+2014-04-16 10:29:56 INFO  Demo:? - Time elapsed for loading: Demo.properties is 588832ns
+2014-04-16 10:29:56 INFO  Demo:? - Started looking for file: messagesEnglish.properties
+2014-04-16 10:29:56 INFO  Demo:? - Found the file: messagesEnglish.properties
+2014-04-16 10:29:56 INFO  Demo:? - Time elapsed for loading: messagesEnglish.properties is 579333ns
+2014-04-16 10:29:56 INFO  Demo:? - Started showing mutability
+2014-04-16 10:29:56 INFO  Demo:? - Started showing String immutability
+2014-04-16 10:29:56 INFO  Demo:? - Finished showing String immutability
+2014-04-16 10:29:56 INFO  Demo:? - Started showing BigInteger immutability
+2014-04-16 10:29:56 INFO  Demo:? - Finished showing BigInteger immutability
+2014-04-16 10:29:56 INFO  Demo:? - Finished showing mutability
+2014-04-16 10:29:56 INFO  Prog:? - The program has ended without errors
+2014-04-16 10:50:56 INFO  Prog:20 - The program has started
+2014-04-16 10:50:56 INFO  Demo:33 - Started looking for file: Demo.properties
+2014-04-16 10:50:56 INFO  Demo:41 - Found the file: Demo.properties
+2014-04-16 10:50:56 INFO  Demo:57 - Time elapsed for loading: Demo.properties is 373442ns
+2014-04-16 10:50:56 INFO  Demo:33 - Started looking for file: messagesEnglish.properties
+2014-04-16 10:50:56 INFO  Demo:41 - Found the file: messagesEnglish.properties
+2014-04-16 10:50:56 INFO  Demo:57 - Time elapsed for loading: messagesEnglish.properties is 704978ns
+2014-04-16 10:50:56 INFO  Demo:46 - Started showing mutability
+2014-04-16 10:50:56 INFO  Demo:54 - Started showing String immutability
+2014-04-16 10:50:56 INFO  Demo:72 - Finished showing String immutability
+2014-04-16 10:50:56 INFO  Demo:77 - Started showing BigInteger immutability
+2014-04-16 10:50:56 INFO  Demo:98 - Finished showing BigInteger immutability
+2014-04-16 10:50:56 INFO  Demo:49 - Finished showing mutability
+2014-04-16 10:50:56 INFO  Prog:30 - The program has ended without errors
