@@ -5,4 +5,4 @@ Several tasks completed in Java. Last 3 are a continous improvement of a MVC Swi
 
 The project is aviable under project directory.
 
-![alt tag](https://cloud.githubusercontent.com/assets/8882153/14538127/737e73fe-027a-11e6-92b0-ef7ae0389875.PNG)
+![alt tag](https://cloud.githubusercontent.com/assets/8882153/14538226/f8b1e9d4-027a-11e6-9376-0abea2404f76.PNG)
